@@ -1,0 +1,24 @@
+0.7
+2020.2
+Oct 13 2023
+20:21:30
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.sim/sim_1/behav/xsim/glbl.v,1683262958,verilog,,,,glbl,,,,,,,,
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/alu.v,1702160088,verilog,,/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/alu_multiplex.v,,alu,,,,,,,,
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/alu_multiplex.v,1699395544,verilog,,/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/control_unit.v,,alu_multiplex,,,,,,,,
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/control_unit.v,1702171678,verilog,,/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/data_memory.v,,control_unit,,,,,,,,
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/data_memory.v,1701746126,verilog,,/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/datapath.v,,data_memory,,,,,,,,
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/datapath.v,1702162052,verilog,,/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/exemem_pipeline_reg.v,,datapath,,,,,,,,
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/exemem_pipeline_reg.v,1699396640,verilog,,/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/forward_a_mux.v,,exemem_pipeline_reg,,,,,,,,
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/forward_a_mux.v,1702156592,verilog,,/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/forward_b_mux.v,,forward_a_mux,,,,,,,,
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/forward_b_mux.v,1702156592,verilog,,/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/id_exe_pipeline_reg.v,,forward_b_mux,,,,,,,,
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/id_exe_pipeline_reg.v,1698526600,verilog,,/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/ifid_pipeline_reg.v,,id_exe_pipeline_reg,,,,,,,,
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/ifid_pipeline_reg.v,1697576596,verilog,,/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/immediate_extender.v,,ifid_pipeline_reg,,,,,,,,
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/immediate_extender.v,1698535966,verilog,,/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/inst_memory.v,,immediate_extender,,,,,,,,
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/inst_memory.v,1702164056,verilog,,/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/memwb_pipeline_reg.v,,inst_memory,,,,,,,,
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/memwb_pipeline_reg.v,1699398044,verilog,,/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/pc.v,,memwb_pipeline_reg,,,,,,,,
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/pc.v,1698533308,verilog,,/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/pc_adder.v,,pc,,,,,,,,
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/pc_adder.v,1697576270,verilog,,/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/reg_file.v,,pc_adder,,,,,,,,
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/reg_file.v,1702160098,verilog,,/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/reg_multiplex.v,,reg_file,,,,,,,,
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/reg_multiplex.v,1698539050,verilog,,/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/wb_mux.v,,reg_multiplex,,,,,,,,
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/testbench.v,1699732450,verilog,,,,testbench,,,,,,,,
+/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/wb_mux.v,1701744002,verilog,,/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/testbench.v,,wb_mux,,,,,,,,

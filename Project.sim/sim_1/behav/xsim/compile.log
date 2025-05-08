@@ -1,0 +1,40 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/alu_multiplex.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu_multiplex
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/control_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/data_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/datapath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module datapath
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/exemem_pipeline_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module exemem_pipeline_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/forward_a_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module forward_a_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/forward_b_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module forward_b_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/id_exe_pipeline_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module id_exe_pipeline_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/ifid_pipeline_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ifid_pipeline_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/immediate_extender.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module immediate_extender
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/inst_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module inst_memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/memwb_pipeline_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module memwb_pipeline_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/pc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pc
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/pc_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pc_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/reg_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_file
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/reg_multiplex.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_multiplex
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/wb_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module wb_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.srcs/sources_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/jfg5801/Project_CMPEN331/Project/Project.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
